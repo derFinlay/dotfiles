@@ -1,0 +1,3 @@
+Primary=#3e6133
+Secondary=#D27D2D
+Tertiary=
