@@ -1,0 +1,6 @@
+2024/11/13-23:37:47.385 5ec Reusing MANIFEST /home/fgress2/.config/BraveSoftware/Brave-Browser/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/11/13-23:37:47.386 5ec Recovering log #3
+2024/11/13-23:37:47.398 5ec Reusing old log /home/fgress2/.config/BraveSoftware/Brave-Browser/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/000003.log 
+2024/11/13-23:37:51.983 5ed Level-0 table #5: started
+2024/11/13-23:37:51.994 5ed Level-0 table #5: 2424271 bytes OK
+2024/11/13-23:37:51.995 5ed Delete type=0 #3

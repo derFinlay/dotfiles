@@ -1,0 +1,14 @@
+GitLens v16.0.1 activating in Visual Studio Code (1.95.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (083f3a0cc7b57b753d6bcd6c0c131bb7eb466363822825b8d7b73abcd45b5c08|7af51a7c-a41c-455f-b85e-9fd79700cd611731930466337)
+To enable debug logging, set `"gitlens.outputLevel: "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2024-11-18 11:47:52.570] [GIT          ] [/home/fgress2] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [228ms]
+
+[2024-11-18 11:47:53.797] [GIT    *769ms] [/home/fgress2/dotfiles] git rev-parse --show-toplevel [*769ms] (slow)
+[2024-11-18 11:47:53.797] [GIT    *770ms] [/home/fgress2/.oh-my-zsh] git rev-parse --git-dir --git-common-dir [*770ms] (slow)
+[2024-11-18 11:47:53.965] [GIT          ] [/home/fgress2/.config/hypr] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [44ms]
+
+[2024-11-18 11:49:10.229] [GIT          ] [/home/fgress2/documents/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [31ms]
+
+[2024-11-18 11:49:31.673] [GIT          ] [/home/fgress2] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [27ms]
+
+[2024-11-18 11:49:37.733] [GIT          ] [/home/fgress2] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [25ms]
+

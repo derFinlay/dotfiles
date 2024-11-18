@@ -1,0 +1,20 @@
+2024-11-14 01:24:52.427 [info] Using the Electron fetcher.
+2024-11-14 01:24:52.427 [info] Initializing Git extension service.
+2024-11-14 01:24:52.427 [info] Successfully activated the vscode.git extension.
+2024-11-14 01:24:52.427 [info] Enablement state of the vscode.git extension: true.
+2024-11-14 01:24:52.427 [info] Successfully registered Git commit message provider.
+2024-11-14 01:24:53.522 [info] Logged in as derFinlay
+2024-11-14 01:24:54.667 [info] Got Copilot token for derFinlay
+2024-11-14 01:24:54.698 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-14 01:24:54.698 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-11-14 01:24:54.700 [info] Registering default platform agent...
+2024-11-14 01:24:54.935 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28): Failed to load remote slash commands
+2024-11-14 01:24:54.935 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28): Failed to fetch models (9fdc4c78-084b-40c3-bd18-aea0872af384)
+2024-11-14 01:24:54.935 [info] activationBlocker from 'languageModelAccess' took for 2797ms
+2024-11-14 01:24:54.988 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28): Failed to fetch models (3528d76c-6052-4b46-b98c-ef4939458bf9)

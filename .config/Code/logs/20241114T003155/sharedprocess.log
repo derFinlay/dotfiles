@@ -1,0 +1,1 @@
+2024-11-14 00:46:07.297 [error] [network] #34: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_CERT_COMMON_NAME_INVALID

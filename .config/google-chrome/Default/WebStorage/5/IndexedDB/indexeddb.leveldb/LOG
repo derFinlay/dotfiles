@@ -1,0 +1,12 @@
+2024/11/17-17:11:11.425 86e Reusing MANIFEST /home/fgress2/.config/google-chrome/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/11/17-17:11:11.425 86e Recovering log #4
+2024/11/17-17:11:11.435 86e Reusing old log /home/fgress2/.config/google-chrome/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/000004.log 
+2024/11/17-17:11:12.815 86f Level-0 table #8: started
+2024/11/17-17:11:12.824 86f Level-0 table #8: 2735196 bytes OK
+2024/11/17-17:11:12.825 86f Delete type=0 #4
+2024/11/17-17:11:17.869 86f Compacting 1@1 + 1@2 files
+2024/11/17-17:11:17.891 86f Generated table #9@1: 2662 keys, 1429852 bytes
+2024/11/17-17:11:17.891 86f Compacted 1@1 + 1@2 files => 1429852 bytes
+2024/11/17-17:11:17.892 86f compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/17-17:11:17.892 86f Delete type=2 #8
+2024/11/17-17:11:17.892 86f Delete type=2 #5

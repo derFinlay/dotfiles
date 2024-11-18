@@ -1,0 +1,81 @@
+2024-11-13 19:07:36.422 [warning] [certificates] Failed to parse certificate # Nexus GO Root CA G1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Ine.removeExpiredCertificates (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:77:32)
+    at Ine.getAllRootCAs (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:68:38)
+    at mue.createSecureContext (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificates.ts:46:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE',
+  vslsStack: [
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {}
+  ]
+}
+2024-11-13 19:07:36.422 [warning] [certificates] Failed to parse certificate # Nexus GO Root CA G1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Ine.removeExpiredCertificates (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:77:32)
+    at Ine.getAllRootCAs (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:68:38)
+    at mue.createSecureContext (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificates.ts:46:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE',
+  vslsStack: [
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {}
+  ]
+}
+2024-11-13 19:07:36.422 [info] [certificates] Removed 2 expired certificates
+2024-11-13 19:07:36.921 [info] [fetcher] Using Helix fetcher.
+2024-11-13 19:07:36.921 [info] [code-referencing] Public code references are enabled.
+2024-11-13 19:07:36.936 [info] [auth] Successfully authenticated
+2024-11-13 19:07:38.498 [warning] [relatedFiles] unknown language properties
+2024-11-13 19:11:36.307 [warning] [relatedFiles] unknown language jsonc
+2024-11-13 19:11:37.302 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 354 ms
+2024-11-13 19:11:37.310 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2024-11-13 19:11:37.311 [info] [streamChoices] request done: headerRequestId: [34a48e79-2cd1-4523-ab23-c3a9eab81530] model deployment ID: [d138-20240925191221]
+2024-11-13 19:11:51.316 [error] [default] Error sending telemetry FetchError: The pending stream has been canceled (caused by: getaddrinfo EAI_AGAIN telemetry.individual.githubcopilot.com)
+    at fetch (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at pue.fetch (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/helix.ts:93:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ERR_HTTP2_STREAM_CANCEL',
+  errno: undefined,
+  erroredSysCall: undefined,
+  vslsStack: [ CallSite {}, CallSite {}, CallSite {}, CallSite {} ]
+}
+2024-11-13 19:11:51.655 [error] [default] Error sending telemetry FetchError: The pending stream has been canceled (caused by: getaddrinfo EAI_AGAIN telemetry.individual.githubcopilot.com)
+    at fetch (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at pue.fetch (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/helix.ts:93:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ERR_HTTP2_STREAM_CANCEL',
+  errno: undefined,
+  erroredSysCall: undefined,
+  vslsStack: [ CallSite {}, CallSite {}, CallSite {}, CallSite {} ]
+}

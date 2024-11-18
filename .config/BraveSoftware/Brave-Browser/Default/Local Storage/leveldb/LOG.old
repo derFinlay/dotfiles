@@ -1,0 +1,8 @@
+2024/11/18-11:26:48.213 4 Reusing MANIFEST /home/fgress2/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/18-11:26:48.218 4 Recovering log #54
+2024/11/18-11:26:48.219 4 (ignoring error) /home/fgress2/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000054.log: dropping 13743 bytes; Corruption: checksum mismatch
+2024/11/18-11:26:48.219 4 (ignoring error) /home/fgress2/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000054.log: dropping 226 bytes; Corruption: missing start of fragmented record(2)
+2024/11/18-11:26:48.220 4 Reusing old log /home/fgress2/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000054.log 
+2024/11/18-12:03:15.593 5 Level-0 table #58: started
+2024/11/18-12:03:15.599 5 Level-0 table #58: 22690 bytes OK
+2024/11/18-12:03:15.604 5 Delete type=0 #54

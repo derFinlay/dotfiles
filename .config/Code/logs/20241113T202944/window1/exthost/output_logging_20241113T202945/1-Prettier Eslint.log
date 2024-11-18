@@ -1,0 +1,16 @@
+Error: Could not warm up worker. Formatting a file for the first time may take longer than usual.
+Message: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/fgress2/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+Stacktrace: Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/fgress2/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+	at n._resolveFilename (node:electron/js2c/utility_init:2:16068)
+	at t._resolveFilename (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:166:22715)
+	at Function.resolve (node:internal/modules/helpers:190:19)
+	at Ve (/home/fgress2/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:12704)
+	at Zt (/home/fgress2/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:2:487)
+	at /home/fgress2/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:2:718

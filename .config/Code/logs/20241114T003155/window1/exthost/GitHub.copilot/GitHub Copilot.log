@@ -1,0 +1,114 @@
+2024-11-14 00:32:02.491 [warning] [certificates] Failed to parse certificate # Nexus GO Root CA G1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Ine.removeExpiredCertificates (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:77:32)
+    at Ine.getAllRootCAs (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:68:38)
+    at mue.createSecureContext (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificates.ts:46:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE',
+  vslsStack: [
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {}
+  ]
+}
+2024-11-14 00:32:02.491 [warning] [certificates] Failed to parse certificate # Nexus GO Root CA G1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Ine.removeExpiredCertificates (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:77:32)
+    at Ine.getAllRootCAs (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:68:38)
+    at mue.createSecureContext (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificates.ts:46:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE',
+  vslsStack: [
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {}
+  ]
+}
+2024-11-14 00:32:02.491 [info] [certificates] Removed 2 expired certificates
+2024-11-14 00:32:03.116 [info] [fetcher] Using Helix fetcher.
+2024-11-14 00:32:03.116 [info] [code-referencing] Public code references are enabled.
+2024-11-14 00:32:03.131 [info] [auth] Successfully authenticated
+2024-11-14 00:57:04.233 [info] [fetcher] Using Helix fetcher.
+2024-11-14 00:57:04.233 [info] [code-referencing] Public code references are enabled.
+2024-11-14 01:00:35.543 [warning] [relatedFiles] unknown language properties
+2024-11-14 01:00:36.253 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 452 ms
+2024-11-14 01:00:36.260 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2024-11-14 01:00:36.262 [info] [streamChoices] request done: headerRequestId: [9bf07d8a-5f6e-45e0-974f-996c2f4ca65c] model deployment ID: [d120-20240927061848]
+2024-11-14 01:00:40.502 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 410 ms
+2024-11-14 01:00:40.507 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2024-11-14 01:00:40.508 [info] [streamChoices] request done: headerRequestId: [ff255db6-4e51-46aa-99f9-3e028444d25d] model deployment ID: [d120-20240927061848]
+2024-11-14 01:00:46.873 [info] [code-referencing] Calling Match
+2024-11-14 01:00:47.510 [info] [code-referencing] No match found
+2024-11-14 01:02:40.654 [error] [ghostText] Error on ghost text request: FetchError: Stream closed with error code NGHTTP2_REFUSED_STREAM
+    at fetch (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at pue.fetch (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/helix.ts:93:22)
+    at nY.fetchWithParameters (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/openai/fetch.ts:451:26)
+    at nY.fetchAndStreamCompletions (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/openai/fetch.ts:354:26)
+    at genericGetCompletionsFromNetwork (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/ghostText/ghostText.ts:149:21)
+    at getGhostText (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/ghostText/ghostText.ts:698:23)
+    at calculateInlineCompletions (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/extension/src/ghostText/ghostText.ts:77:20)
+    at provideInlineCompletions (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/extension/src/ghostText/ghostText.ts:140:20)
+    at Rue.provideInlineCompletionItems (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/extension/src/ghostText/ghostText.ts:153:27)
+    at RH.provideInlineCompletions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:142456) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ERR_HTTP2_STREAM_ERROR',
+  errno: undefined,
+  erroredSysCall: undefined,
+  vslsStack: [
+    CallSite {}, CallSite {},
+    CallSite {}, CallSite {},
+    CallSite {}, CallSite {},
+    CallSite {}, CallSite {},
+    CallSite {}, CallSite {},
+    CallSite {}, CallSite {}
+  ]
+}
+2024-11-14 01:02:55.433 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 5765 ms
+2024-11-14 01:02:55.436 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2024-11-14 01:02:55.439 [info] [streamChoices] request done: headerRequestId: [cb731511-12aa-431c-8396-893063bdb5bb] model deployment ID: [d117-20240927034320]
+2024-11-14 01:03:46.450 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 334 ms
+2024-11-14 01:03:46.453 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2024-11-14 01:03:46.454 [info] [streamChoices] request done: headerRequestId: [60853240-5d48-4ac8-a50c-959eb3a93126] model deployment ID: [d109-20240926203910]
+2024-11-14 01:04:12.796 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 302 ms
+2024-11-14 01:04:12.801 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2024-11-14 01:04:12.802 [info] [streamChoices] request done: headerRequestId: [a3262e35-2fe7-4869-95cd-a586cfeff41e] model deployment ID: [d109-20240926203910]
+2024-11-14 01:04:14.612 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 426 ms
+2024-11-14 01:04:14.617 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2024-11-14 01:04:14.622 [info] [streamChoices] request done: headerRequestId: [b668a0d4-b22b-416c-acd5-7474ee67b2ad] model deployment ID: [d109-20240926203910]
+2024-11-14 01:04:15.738 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 247 ms
+2024-11-14 01:04:15.741 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2024-11-14 01:04:15.742 [info] [streamChoices] request done: headerRequestId: [15620ad3-5917-4762-aeed-04202733bab5] model deployment ID: [d109-20240926203910]
+2024-11-14 01:04:19.339 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 310 ms
+2024-11-14 01:04:19.343 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2024-11-14 01:04:19.345 [info] [streamChoices] request done: headerRequestId: [6d08163e-cebe-4be2-971b-51d13b2fe552] model deployment ID: [d109-20240926203910]
+2024-11-14 01:04:20.529 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 217 ms
+2024-11-14 01:04:20.533 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2024-11-14 01:04:20.534 [info] [streamChoices] request done: headerRequestId: [3e767e35-cd31-49c7-9906-2a9ea0c0ae6f] model deployment ID: [d109-20240926203910]
+2024-11-14 01:04:21.379 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 450 ms
+2024-11-14 01:04:21.384 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2024-11-14 01:04:21.389 [info] [streamChoices] request done: headerRequestId: [b77801b7-5894-4e94-8f7d-c994df5d7ba6] model deployment ID: [d109-20240926203910]

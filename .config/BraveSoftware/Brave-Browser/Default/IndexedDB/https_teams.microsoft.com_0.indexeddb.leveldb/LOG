@@ -1,0 +1,91 @@
+2024/11/13-23:37:38.532 5ec Reusing MANIFEST /home/fgress2/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/13-23:37:38.533 5ec Recovering log #80
+2024/11/13-23:37:38.533 5ec Reusing old log /home/fgress2/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000080.log 
+2024/11/13-23:37:38.816 5ec Compacting 1@1 + 3@2 files
+2024/11/13-23:37:38.841 5ec Generated table #84@1: 4192 keys, 2156087 bytes
+2024/11/13-23:37:38.854 5ec Generated table #85@1: 1251 keys, 2134465 bytes
+2024/11/13-23:37:38.868 5ec Generated table #86@1: 14315 keys, 1340185 bytes
+2024/11/13-23:37:38.868 5ec Compacted 1@1 + 3@2 files => 5630737 bytes
+2024/11/13-23:37:38.869 5ec compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/11/13-23:37:38.869 5ec Delete type=2 #74
+2024/11/13-23:37:38.869 5ec Delete type=2 #75
+2024/11/13-23:37:38.869 5ec Delete type=2 #76
+2024/11/13-23:37:38.869 5ec Delete type=2 #82
+2024/11/13-23:37:45.658 5ed Level-0 table #88: started
+2024/11/13-23:37:45.659 652 Current memtable full; waiting...
+2024/11/13-23:37:45.664 5ed Level-0 table #88: 842104 bytes OK
+2024/11/13-23:37:45.665 5ed Delete type=0 #80
+2024/11/13-23:37:45.665 5ed Manual compaction at level-0 from '\x00`\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/13-23:37:45.665 5ed Level-0 table #90: started
+2024/11/13-23:37:45.666 5ed Level-0 table #90: 538 bytes OK
+2024/11/13-23:37:45.666 5ed Delete type=0 #87
+2024/11/13-23:37:45.667 5ec Manual compaction at level-0 from '\x00a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00b\x00\x00\x00' @ 0 : 0; will stop at '\x00a\x00\x00\x05' @ 106783 : 1
+2024/11/13-23:37:45.667 5ec Compacting 1@0 + 1@1 files
+2024/11/13-23:37:45.672 5ec Generated table #91@0: 2780 keys, 383895 bytes
+2024/11/13-23:37:45.672 5ec Compacted 1@0 + 1@1 files => 383895 bytes
+2024/11/13-23:37:45.672 5ec compacted to: files[ 0 1 3 0 0 0 0 ]
+2024/11/13-23:37:45.672 5ec Delete type=2 #90
+2024/11/13-23:37:45.672 5ec Delete type=2 #88
+2024/11/13-23:37:45.673 5ec Manual compaction at level-0 from '\x00a\x00\x00\x05' @ 106783 : 1 .. '\x00b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/13-23:37:46.322 5ed Compacting 1@1 + 3@2 files
+2024/11/13-23:37:46.344 5ed Generated table #92@1: 4196 keys, 2154386 bytes
+2024/11/13-23:37:46.359 5ed Generated table #93@1: 1244 keys, 2135874 bytes
+2024/11/13-23:37:46.385 5ed Generated table #94@1: 14971 keys, 1531945 bytes
+2024/11/13-23:37:46.385 5ed Compacted 1@1 + 3@2 files => 5822205 bytes
+2024/11/13-23:37:46.386 5ed compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/11/13-23:37:46.387 5ed Delete type=2 #91
+2024/11/13-23:37:46.387 5ed Delete type=2 #86
+2024/11/13-23:37:46.387 5ed Delete type=2 #84
+2024/11/13-23:37:46.387 5ed Delete type=2 #85
+2024/11/13-23:39:25.487 5ee Level-0 table #96: started
+2024/11/13-23:39:25.489 652 Current memtable full; waiting...
+2024/11/13-23:39:25.494 5ee Level-0 table #96: 845877 bytes OK
+2024/11/13-23:39:25.495 5ee Delete type=0 #89
+2024/11/13-23:39:25.495 5ec Level-0 table #98: started
+2024/11/13-23:39:25.496 5ec Level-0 table #98: 539 bytes OK
+2024/11/13-23:39:25.497 5ec Delete type=0 #95
+2024/11/13-23:39:25.497 5ec Manual compaction at level-0 from '\x00c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00d\x00\x00\x00' @ 0 : 0; will stop at '\x00c\x00\x00\x05' @ 110020 : 1
+2024/11/13-23:39:25.497 5ec Compacting 1@0 + 1@1 files
+2024/11/13-23:39:25.500 5ec Generated table #99@0: 1535 keys, 240538 bytes
+2024/11/13-23:39:25.500 5ec Compacted 1@0 + 1@1 files => 240538 bytes
+2024/11/13-23:39:25.501 5ec compacted to: files[ 0 1 3 0 0 0 0 ]
+2024/11/13-23:39:25.501 5ec Delete type=2 #96
+2024/11/13-23:39:25.501 5ec Delete type=2 #98
+2024/11/13-23:39:25.501 5ec Manual compaction at level-0 from '\x00c\x00\x00\x05' @ 110020 : 1 .. '\x00d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/13-23:39:25.501 5ec Manual compaction at level-0 from '\x00b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/13-23:39:42.551 5ed Compacting 1@1 + 3@2 files
+2024/11/13-23:39:42.566 5ed Generated table #100@1: 4195 keys, 2154634 bytes
+2024/11/13-23:39:42.579 5ed Generated table #101@1: 1248 keys, 2135358 bytes
+2024/11/13-23:39:42.598 5ed Generated table #102@1: 15119 keys, 1573701 bytes
+2024/11/13-23:39:42.598 5ed Compacted 1@1 + 3@2 files => 5863693 bytes
+2024/11/13-23:39:42.598 5ed compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/11/13-23:39:42.598 5ed Delete type=2 #92
+2024/11/13-23:39:42.599 5ed Delete type=2 #93
+2024/11/13-23:39:42.599 5ed Delete type=2 #94
+2024/11/13-23:39:42.599 5ed Delete type=2 #99
+2024/11/13-23:39:58.873 5ee Level-0 table #104: started
+2024/11/13-23:39:58.874 652 Current memtable full; waiting...
+2024/11/13-23:39:58.875 5ee Level-0 table #104: 146276 bytes OK
+2024/11/13-23:39:58.876 5ee Delete type=0 #97
+2024/11/13-23:39:58.876 5ec Level-0 table #106: started
+2024/11/13-23:39:58.877 5ec Level-0 table #106: 539 bytes OK
+2024/11/13-23:39:58.877 5ec Delete type=0 #103
+2024/11/13-23:39:58.878 5ec Manual compaction at level-0 from '\x00e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00f\x00\x00\x00' @ 0 : 0; will stop at '\x00e\x00\x00\x05' @ 111132 : 1
+2024/11/13-23:39:58.878 5ec Compacting 1@0 + 1@1 files
+2024/11/13-23:39:58.879 5ec Generated table #107@0: 559 keys, 61076 bytes
+2024/11/13-23:39:58.880 5ec Compacted 1@0 + 1@1 files => 61076 bytes
+2024/11/13-23:39:58.880 5ec compacted to: files[ 0 1 3 0 0 0 0 ]
+2024/11/13-23:39:58.880 5ec Delete type=2 #106
+2024/11/13-23:39:58.880 5ec Delete type=2 #104
+2024/11/13-23:39:58.880 5ec Manual compaction at level-0 from '\x00e\x00\x00\x05' @ 111132 : 1 .. '\x00f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/13-23:39:58.881 652 Manual compaction at level-0 from '\x00d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/13-23:40:09.719 5ec Compacting 1@1 + 3@2 files
+2024/11/13-23:40:09.738 5ec Generated table #108@1: 4195 keys, 2155464 bytes
+2024/11/13-23:40:09.748 5ec Generated table #109@1: 1248 keys, 2135358 bytes
+2024/11/13-23:40:09.763 5ec Generated table #110@1: 15119 keys, 1574110 bytes
+2024/11/13-23:40:09.763 5ec Compacted 1@1 + 3@2 files => 5864932 bytes
+2024/11/13-23:40:09.765 5ec compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/11/13-23:40:09.765 5ec Delete type=2 #102
+2024/11/13-23:40:09.765 5ec Delete type=2 #101
+2024/11/13-23:40:09.765 5ec Delete type=2 #100
+2024/11/13-23:40:09.765 5ec Delete type=2 #107

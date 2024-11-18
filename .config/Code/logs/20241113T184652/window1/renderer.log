@@ -1,0 +1,23 @@
+2024-11-13 18:46:53.833 [info] Started local extension host with pid 2213.
+2024-11-13 18:46:54.698 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2024-11-13 18:46:55.136 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-13 18:46:55.136 [info] Settings Sync: Authentication providers updated []
+2024-11-13 18:46:55.178 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-13 18:46:55.178 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-13 18:46:55.178 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-13 18:46:55.178 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-13 18:46:55.179 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-13 18:46:55.179 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-13 18:46:55.179 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-13 18:46:55.179 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-13 18:46:55.179 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-13 18:46:55.179 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-13 18:46:55.179 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-13 18:46:55.179 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-13 18:46:55.179 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-13 18:46:55.179 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-13 18:46:55.627 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-13 18:46:55.628 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-13 18:46:59.668 [info] [perf] Render performance baseline is 23ms
+2024-11-13 18:46:59.920 [error] [Extension Host] (node:2213) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

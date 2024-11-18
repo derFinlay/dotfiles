@@ -1,0 +1,136 @@
+2024-11-14 01:08:27.984 [info] [main] Log level: Info
+2024-11-14 01:08:27.984 [info] [main] Validating found git in: "git"
+2024-11-14 01:08:27.984 [info] [main] Using git "2.47.0" from "git"
+2024-11-14 01:08:27.984 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-14 01:08:27.984 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-14 01:08:27.984 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:27.984 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-14 01:08:27.984 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.291 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-14 01:08:28.291 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.306 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-14 01:08:28.306 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.317 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.317 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.324 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.324 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.331 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.331 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.338 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.338 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.347 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.354 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.354 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.360 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.360 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.366 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.366 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.373 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-14 01:08:28.373 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.379 [info] > git rev-parse --show-toplevel [0ms]
+2024-11-14 01:08:28.379 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.385 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.385 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.391 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.391 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.398 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.398 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.405 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.405 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.412 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.412 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.418 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.418 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.424 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.430 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:28.430 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:28.431 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (2), parent repositories (0), unsafe repositories (0)
+2024-11-14 01:08:28.911 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-14 01:08:28.912 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:29.067 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-14 01:08:29.067 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:29.076 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-14 01:08:29.076 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:29.190 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-14 01:08:29.190 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:29.342 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-14 01:08:29.342 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:33.156 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-14 01:08:33.246 [info] > git rev-parse --show-toplevel [12ms]
+2024-11-14 01:08:33.262 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:33.274 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-14 01:08:33.556 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:33.556 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-14 01:08:42.736 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:08:42.747 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2024-11-14 01:08:42.768 [info] [Model][openRepository] Opened repository: /home/fgress2/documents/Obsidian
+2024-11-14 01:08:42.790 [info] > git config --get commit.template [12ms]
+2024-11-14 01:08:42.807 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-11-14 01:08:42.862 [info] > git status -z -uall [10ms]
+2024-11-14 01:08:42.862 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-11-14 01:08:42.887 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2024-11-14 01:08:42.898 [info] > git config --get commit.template [10ms]
+2024-11-14 01:08:42.898 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-11-14 01:08:42.898 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-14 01:08:42.916 [info] > git reflog main --grep-reflog=branch: Created from *. [9ms]
+2024-11-14 01:08:42.926 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2024-11-14 01:08:42.927 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2024-11-14 01:08:42.927 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-14 01:08:42.927 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-14 01:08:42.938 [info] > git merge-base refs/heads/main refs/remotes/origin/main [1ms]
+2024-11-14 01:08:42.966 [info] > git status -z -uall [10ms]
+2024-11-14 01:08:42.967 [info] > git diff --name-status -z --diff-filter=ADMR e130bc8f212e7b9149c704e70783cba8def7d291...refs/remotes/origin/main [19ms]
+2024-11-14 01:08:42.967 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-14 01:08:49.944 [info] > git fetch [7176ms]
+2024-11-14 01:08:49.972 [info] > git config --get commit.template [12ms]
+2024-11-14 01:08:49.973 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-11-14 01:08:49.996 [info] > git status -z -uall [12ms]
+2024-11-14 01:08:49.996 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-11-14 01:08:51.153 [info] > git config --get commit.template [11ms]
+2024-11-14 01:08:51.153 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-11-14 01:08:51.177 [info] > git status -z -uall [11ms]
+2024-11-14 01:08:51.177 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-11-14 01:09:39.111 [info] > git config --get commit.template [2ms]
+2024-11-14 01:09:39.127 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-11-14 01:09:39.150 [info] > git status -z -uall [11ms]
+2024-11-14 01:09:39.151 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-11-14 01:10:00.487 [info] > git config --get commit.template [11ms]
+2024-11-14 01:10:00.487 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-11-14 01:10:00.515 [info] > git status -z -uall [16ms]
+2024-11-14 01:10:00.516 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-14 01:10:05.551 [info] > git config --get commit.template [13ms]
+2024-11-14 01:10:05.552 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-11-14 01:10:05.579 [info] > git status -z -uall [14ms]
+2024-11-14 01:10:05.580 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-11-14 01:10:05.593 [info] > git merge-base refs/heads/main refs/remotes/origin/main [1ms]
+2024-11-14 01:10:05.605 [info] > git diff --name-status -z --diff-filter=ADMR e130bc8f212e7b9149c704e70783cba8def7d291...refs/remotes/origin/main [1ms]
+2024-11-14 01:10:10.608 [info] > git config --get commit.template [1ms]
+2024-11-14 01:10:10.618 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-11-14 01:10:10.639 [info] > git status -z -uall [11ms]
+2024-11-14 01:10:10.639 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-11-14 01:10:38.005 [info] > git config --get commit.template [15ms]
+2024-11-14 01:10:38.005 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-11-14 01:10:38.029 [info] > git status -z -uall [12ms]
+2024-11-14 01:10:38.029 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [0ms]
+2024-11-14 01:10:38.043 [info] > git merge-base refs/heads/main refs/remotes/origin/main [1ms]
+2024-11-14 01:10:38.055 [info] > git diff --name-status -z --diff-filter=ADMR f62889889abc0ce630873d170e8962eb6c69e4e2...refs/remotes/origin/main [1ms]
+2024-11-14 01:11:45.568 [info] > git config --get commit.template [12ms]
+2024-11-14 01:11:45.568 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-11-14 01:11:45.592 [info] > git status -z -uall [12ms]
+2024-11-14 01:11:45.592 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-11-14 01:11:45.605 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2024-11-14 01:11:45.617 [info] > git diff --name-status -z --diff-filter=ADMR 846aa6543f13abdcae3f78f005cdc5199ef16dba...refs/remotes/origin/main [1ms]
+2024-11-14 01:12:10.075 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:12:11.063 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:12:16.080 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:12:22.627 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:12:29.154 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-14 01:17:48.470 [info] > git config --get commit.template [1ms]
+2024-11-14 01:17:48.483 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-11-14 01:17:48.504 [info] > git status -z -uall [12ms]
+2024-11-14 01:17:48.505 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-11-14 01:17:50.336 [info] > git fetch [1881ms]
+2024-11-14 01:17:50.365 [info] > git config --get commit.template [13ms]
+2024-11-14 01:17:50.366 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-11-14 01:17:50.386 [info] > git status -z -uall [10ms]
+2024-11-14 01:17:50.387 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]

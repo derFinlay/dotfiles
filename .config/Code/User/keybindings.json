@@ -1,0 +1,117 @@
+// Place your key bindings in this file to override the defaults
+[
+	{
+		"key": "ctrl+alt+meta+n",
+		"command": "-welcome.showNewFileEntries"
+	},
+	{
+		"key": "shift+a",
+		"command": "workbench.files.action.createFileFromExplorer",
+		"when": "filesExplorerFocus && !inputFocus"
+	},
+	{
+		"key": "shift+r",
+		"command": "workbench.action.terminal.renameActiveTab",
+		"when": "terminalHasBeenCreated && terminalTabsFocus && terminalTabsSingularSelection || terminalProcessSupported && terminalTabsFocus && terminalTabsSingularSelection"
+	},
+	{
+		"key": "f2",
+		"command": "-workbench.action.terminal.renameActiveTab",
+		"when": "terminalHasBeenCreated && terminalTabsFocus && terminalTabsSingularSelection || terminalProcessSupported && terminalTabsFocus && terminalTabsSingularSelection"
+	},
+	{
+		"key": "shift+d",
+		"command": "deleteFile",
+		"when": "filesExplorerFocus && foldersViewVisible && !explorerResourceMoveableToTrash && !explorerResourceReadonly && !inputFocus"
+	},
+	{
+		"key": "delete",
+		"command": "-deleteFile",
+		"when": "filesExplorerFocus && foldersViewVisible && !explorerResourceMoveableToTrash && !explorerResourceReadonly && !inputFocus"
+	},
+	{
+		"key": "shift+r",
+		"command": "renameFile",
+		"when": "filesExplorerFocus && foldersViewVisible && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus"
+	},
+	{
+		"key": "f2",
+		"command": "-renameFile",
+		"when": "filesExplorerFocus && foldersViewVisible && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus"
+	},
+	{
+		"key": "shift+s",
+		"command": "workbench.files.action.collapseExplorerFolders",
+		"when": "!inputFocus"
+	},
+	{
+		"key": "shift+d",
+		"command": "moveFileToTrash",
+		"when": "explorerResourceMoveableToTrash && filesExplorerFocus && foldersViewVisible && !explorerResourceReadonly && !inputFocus"
+	},
+	{
+		"key": "delete",
+		"command": "-moveFileToTrash",
+		"when": "explorerResourceMoveableToTrash && filesExplorerFocus && foldersViewVisible && !explorerResourceReadonly && !inputFocus"
+	},
+	{
+		"key": "ctrl+shift+e",
+		"command": "workbench.action.toggleSidebarVisibility",
+		"when": "sideBarVisible && !editorFocus"
+	},
+	{
+		"key": "ctrl+[Backslash]",
+		"command": "editor.action.commentLine",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+shift+7",
+		"command": "-editor.action.commentLine",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+shift+d",
+		"command": "-workbench.view.debug",
+		"when": "viewContainer.workbench.view.debug.enabled"
+	},
+	{
+		"key": "ctrl+shift+d",
+		"command": "editor.action.selectHighlights",
+		"when": "editorFocus"
+	},
+	{
+		"key": "ctrl+shift+l",
+		"command": "-editor.action.selectHighlights",
+		"when": "editorFocus"
+	},
+	{
+		"key": "a",
+		"command": "-explorer.newFile",
+		"when": "filesExplorerFocus && !inputFocus"
+	},
+	{
+		"key": "a",
+		"command": "-notebook.cell.insertCodeCellAboveAndFocusContainer",
+		"when": "notebookEditorFocused && !inputFocus && !notebookOutputInputFocused"
+	},
+	{
+		"key": "d d",
+		"command": "-notebook.cell.delete",
+		"when": "notebookEditorFocused && !inputFocus && !notebookOutputInputFocused"
+	},
+	{
+		"key": "shift+a",
+		"command": "-explorer.newFolder",
+		"when": "filesExplorerFocus && !inputFocus"
+	},
+	{
+		"key": "ctrl+shift+g",
+		"command": "editor.action.revealDefinition",
+		"when": "editorHasDefinitionProvider && editorTextFocus && isWeb"
+	},
+	{
+		"key": "ctrl+f12",
+		"command": "-editor.action.revealDefinition",
+		"when": "editorHasDefinitionProvider && editorTextFocus && isWeb"
+	}
+]

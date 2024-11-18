@@ -1,0 +1,19 @@
+2024/11/13-23:36:49.934 5ec Reusing MANIFEST /home/fgress2/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/13-23:36:49.935 5ec Recovering log #71
+2024/11/13-23:36:49.937 5ec Reusing old log /home/fgress2/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000071.log 
+2024/11/13-23:36:56.506 652 Level-0 table #79: started
+2024/11/13-23:36:56.508 5ee Current memtable full; waiting...
+2024/11/13-23:36:56.512 652 Level-0 table #79: 189466 bytes OK
+2024/11/13-23:36:56.513 652 Delete type=0 #71
+2024/11/13-23:36:56.514 5ed Level-0 table #81: started
+2024/11/13-23:36:56.514 5ed Level-0 table #81: 550 bytes OK
+2024/11/13-23:36:56.515 5ed Delete type=0 #78
+2024/11/13-23:36:56.515 5ed Manual compaction at level-0 from '\x00^\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00_\x00\x00\x00' @ 0 : 0; will stop at '\x00_\x00\x00\x05' @ 101658 : 1
+2024/11/13-23:36:56.515 5ed Compacting 1@0 + 1@1 files
+2024/11/13-23:36:56.516 5ed Generated table #82@0: 701 keys, 55524 bytes
+2024/11/13-23:36:56.516 5ed Compacted 1@0 + 1@1 files => 55524 bytes
+2024/11/13-23:36:56.517 5ed compacted to: files[ 0 1 3 0 0 0 0 ]
+2024/11/13-23:36:56.517 5ed Delete type=2 #79
+2024/11/13-23:36:56.517 5ed Delete type=2 #81
+2024/11/13-23:36:56.517 5ed Manual compaction at level-0 from '\x00_\x00\x00\x05' @ 101658 : 1 .. '\x00_\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/13-23:36:56.517 5ed Manual compaction at level-0 from '\x00_\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00`\x00\x00\x00' @ 0 : 0; will stop at (end)

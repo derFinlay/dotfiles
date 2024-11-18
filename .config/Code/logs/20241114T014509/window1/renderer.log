@@ -1,0 +1,33 @@
+2024-11-14 01:45:10.567 [info] Started local extension host with pid 39876.
+2024-11-14 01:45:11.463 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2024-11-14 01:45:11.557 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 01:45:11.558 [info] Settings Sync: Authentication providers updated []
+2024-11-14 01:45:11.589 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 01:45:11.590 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-14 01:45:11.590 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 01:45:11.590 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-14 01:45:11.590 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-14 01:45:11.590 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 01:45:11.590 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-14 01:45:11.591 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 01:45:11.591 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-14 01:45:11.591 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 01:45:11.591 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-14 01:45:11.591 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-14 01:45:11.591 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 01:45:11.591 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-14 01:45:12.168 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-14 01:45:12.169 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-14 01:45:12.610 [error] [network] #1: https://api.github.com/copilot_internal/user - error GET Failed to fetch
+2024-11-14 01:45:12.611 [error] Failed to fetch: TypeError: Failed to fetch
+    at i$s (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3090:35915)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3090:37096
+    at prt.c (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:494:27265)
+    at prt.request (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3090:37088)
+    at Kat.y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3422:1914)
+    at Kat.w (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3422:1776)
+    at vZ.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3422:1691)
+2024-11-14 01:45:13.238 [info] [perf] Render performance baseline is 25ms
+2024-11-14 01:45:13.387 [error] [network] #2: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Failed to fetch
+2024-11-14 01:45:23.419 [error] [Extension Host] (node:39876) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

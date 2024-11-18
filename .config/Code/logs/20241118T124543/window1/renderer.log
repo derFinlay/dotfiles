@@ -1,0 +1,48 @@
+2024-11-18 12:45:44.523 [info] Started local extension host with pid 4452.
+2024-11-18 12:45:45.449 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2024-11-18 12:45:45.737 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 12:45:45.737 [info] Settings Sync: Authentication providers updated []
+2024-11-18 12:45:45.792 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 12:45:45.792 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-18 12:45:45.792 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 12:45:45.792 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-18 12:45:45.793 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-18 12:45:45.793 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 12:45:45.793 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-18 12:45:45.793 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 12:45:45.793 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 12:45:45.793 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 12:45:45.793 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 12:45:45.793 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-18 12:45:45.793 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 12:45:45.794 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 12:45:46.094 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 12:45:46.094 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 12:45:47.243 [info] [perf] Render performance baseline is 16ms
+2024-11-18 12:45:47.735 [error] [ExtensionListenerError] Extension 'rvest.vs-code-prettier-eslint' FAILED to handle event: TypeError: Cannot destructure property 'document' of 'undefined' as it is undefined.: Error: [ExtensionListenerError] Extension 'rvest.vs-code-prettier-eslint' FAILED to handle event: TypeError: Cannot destructure property 'document' of 'undefined' as it is undefined.
+    at mh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35379)
+    at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at D.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+    at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+    at mh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:155:61555)
+    at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at Sw.acceptDocumentsAndEditorsDelta (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:11570)
+    at Sw.$acceptDocumentsAndEditorsDelta (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:10040)
+    at py.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113311)
+    at py.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113091)
+    at py.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:112180)
+    at py.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:111285)
+    at mh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110082)
+    at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at Vn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+    at mh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:13279)
+    at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at Vn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11571)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2024-11-18 12:45:50.252 [error] [Extension Host] (node:4452) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

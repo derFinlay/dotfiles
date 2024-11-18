@@ -1,0 +1,39 @@
+2024-11-14 01:45:12.337 [info] 2024-11-14T00:45:12.013Z extension INFO  Activating extension... [
+  {
+    id: 'mongodb.mongodb-vscode',
+    version: '1.9.3',
+    mode: 'Production',
+    kind: 'UI',
+    extensionPath: '/home/fgress2/.vscode/extensions/mongodb.mongodb-vscode-1.9.3',
+    logPath: '/home/fgress2/.config/Code/logs/20241114T014509/window1/exthost/mongodb.mongodb-vscode',
+    workspaceStoragePath: '/home/fgress2/.config/Code/User/workspaceStorage/196e1d868c8db305c4c4e80ab639ba68/mongodb.mongodb-vscode',
+    globalStoragePath: '/home/fgress2/.config/Code/User/globalStorage/mongodb.mongodb-vscode',
+    defaultConnectionSavingLocation: 'Global',
+    buildInfo: {
+      nodeVersion: 'v20.18.0',
+      runtimePlatform: 'linux',
+      runtimeArch: 'x64'
+    }
+  }
+]
+
+2024-11-14 01:45:12.337 [info] 2024-11-14T00:45:12.015Z language server controller INFO  Creating MongoDB Language Server... [
+  {
+    extensionPath: '/home/fgress2/.vscode/extensions/mongodb.mongodb-vscode-1.9.3',
+    languageServer: {
+      id: 'mongodbLanguageServer',
+      name: 'MongoDB Language Server',
+      path: '/home/fgress2/.vscode/extensions/mongodb.mongodb-vscode-1.9.3/dist/languageServer.js',
+      documentSelector: '[{"pattern":"**/*.mongodb.js"},{"pattern":"**/*.mongodb"}]'
+    }
+  }
+]
+
+2024-11-14 01:45:12.337 [info] 2024-11-14T00:45:12.022Z telemetry INFO  Segment analytics activated [ { anonymousId: '88e97310-e986-4e15-8583-1143a4546ae4' } ]
+
+2024-11-14 01:45:12.337 [info] 2024-11-14T00:45:12.023Z participant INFO  Chat participant created [ { participantId: 'mongodb.participant' } ]
+
+2024-11-14 01:45:12.337 [info] 2024-11-14T00:45:12.023Z language server controller INFO  Starting the language server... []
+
+2024-11-14 01:45:12.553 [info] 2024-11-14T00:45:12.553Z language server controller INFO  MongoDBService initialized. Sending default settings... {"extensionPath":"/home/fgress2/.vscode/extensions/mongodb.mongodb-vscode-1.9.3","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false} []
+

@@ -1,0 +1,68 @@
+2024-11-13 19:13:21.616 [warning] [certificates] Failed to parse certificate # Nexus GO Root CA G1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Ine.removeExpiredCertificates (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:77:32)
+    at Ine.getAllRootCAs (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:68:38)
+    at mue.createSecureContext (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificates.ts:46:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE',
+  vslsStack: [
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {}
+  ]
+}
+2024-11-13 19:13:21.616 [warning] [certificates] Failed to parse certificate # Nexus GO Root CA G1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Ine.removeExpiredCertificates (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:77:32)
+    at Ine.getAllRootCAs (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificateReaders.ts:68:38)
+    at mue.createSecureContext (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/certificates.ts:46:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE',
+  vslsStack: [
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {}
+  ]
+}
+2024-11-13 19:13:21.616 [info] [certificates] Removed 2 expired certificates
+2024-11-13 19:13:22.466 [info] [fetcher] Using Helix fetcher.
+2024-11-13 19:13:22.466 [info] [code-referencing] Public code references are enabled.
+2024-11-13 19:13:22.486 [info] [auth] Successfully authenticated
+2024-11-13 19:13:33.635 [warning] [relatedFiles] unknown language jsonc
+2024-11-13 19:13:34.936 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 143 ms
+2024-11-13 19:13:34.943 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2024-11-13 19:13:34.944 [info] [streamChoices] request done: headerRequestId: [1fabf9ba-4faa-4da5-b6e8-c477a4f61874] model deployment ID: [d158-20240926121103]
+2024-11-13 19:13:43.640 [error] [default] Error sending telemetry FetchError: getaddrinfo EAI_AGAIN telemetry.individual.githubcopilot.com
+    at fetch (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at pue.fetch (/home/fgress2/.vscode/extensions/github.copilot-1.245.0/lib/src/network/helix.ts:93:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'EAI_AGAIN',
+  errno: -3001,
+  erroredSysCall: 'getaddrinfo',
+  vslsStack: [ CallSite {}, CallSite {}, CallSite {}, CallSite {} ]
+}

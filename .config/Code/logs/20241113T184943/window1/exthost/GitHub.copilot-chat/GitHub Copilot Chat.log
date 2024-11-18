@@ -1,0 +1,37 @@
+2024-11-13 18:49:53.530 [info] Using the Electron fetcher.
+2024-11-13 18:49:53.530 [info] Initializing Git extension service.
+2024-11-13 18:49:53.530 [info] Successfully activated the vscode.git extension.
+2024-11-13 18:49:53.530 [info] Enablement state of the vscode.git extension: true.
+2024-11-13 18:49:53.530 [info] Successfully registered Git commit message provider.
+2024-11-13 18:49:54.918 [info] Logged in as derFinlay
+2024-11-13 18:49:54.975 [error] Error: net::ERR_CERT_COMMON_NAME_INVALID
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28): Failed to get copilot token
+2024-11-13 18:49:54.975 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_CERT_COMMON_NAME_INVALID"
+2024-11-13 18:49:54.975 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-11-13 18:49:54.975 [error] Error: net::ERR_CERT_COMMON_NAME_INVALID
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2024-11-13 18:49:54.975 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-11-13 18:49:54.975 [error] Error: net::ERR_CERT_COMMON_NAME_INVALID
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2024-11-13 18:49:54.976 [info] activationBlocker from 'languageModelAccess' took for 1795ms
+2024-11-13 18:49:59.348 [info] Logged in as derFinlay
+2024-11-13 18:50:00.160 [info] Got Copilot token for derFinlay
+2024-11-13 18:50:00.205 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-13 18:50:00.205 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-11-13 18:50:00.209 [info] Registering default platform agent...
+2024-11-13 18:50:00.770 [info] Fetched model metadata in 537ms 282e9b16-91e4-4b7e-8113-953af51fa58b
+2024-11-13 18:56:23.778 [info] Using the Electron fetcher.
+2024-11-13 18:56:23.779 [info] Initializing Git extension service.
+2024-11-13 18:56:23.779 [info] Successfully activated the vscode.git extension.
+2024-11-13 18:56:23.779 [info] Enablement state of the vscode.git extension: true.
+2024-11-13 18:56:23.779 [info] Successfully registered Git commit message provider.
+2024-11-13 18:56:25.132 [info] Logged in as derFinlay
+2024-11-13 18:56:25.872 [info] Got Copilot token for derFinlay
+2024-11-13 18:56:25.910 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-13 18:56:25.910 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-11-13 18:56:25.916 [info] Registering default platform agent...
+2024-11-13 18:56:26.464 [info] Fetched model metadata in 581ms eb24fc81-6316-4a4e-ada8-957c37dda8cc
+2024-11-13 18:56:26.660 [info] activationBlocker from 'languageModelAccess' took for 2975ms

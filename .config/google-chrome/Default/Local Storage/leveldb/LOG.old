@@ -1,0 +1,15 @@
+2024/11/18-09:55:20.696 4 Reusing MANIFEST /home/fgress2/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/18-09:55:20.700 4 Recovering log #65
+2024/11/18-09:55:20.700 4 Reusing old log /home/fgress2/.config/google-chrome/Default/Local Storage/leveldb/000065.log 
+2024/11/18-09:56:20.991 5 Level-0 table #69: started
+2024/11/18-09:56:20.995 5 Level-0 table #69: 117704 bytes OK
+2024/11/18-09:56:20.999 5 Delete type=0 #65
+2024/11/18-09:56:20.999 5 Compacting 4@0 + 1@1 files
+2024/11/18-09:56:21.009 5 Generated table #70@0: 160 keys, 348513 bytes
+2024/11/18-09:56:21.009 5 Compacted 4@0 + 1@1 files => 348513 bytes
+2024/11/18-09:56:21.010 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/18-09:56:21.011 5 Delete type=2 #61
+2024/11/18-09:56:21.011 5 Delete type=2 #63
+2024/11/18-09:56:21.011 5 Delete type=2 #69
+2024/11/18-09:56:21.011 5 Delete type=2 #59
+2024/11/18-09:56:21.011 5 Delete type=2 #66

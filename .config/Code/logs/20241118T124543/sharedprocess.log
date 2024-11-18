@@ -1,0 +1,71 @@
+2024-11-18 12:45:50.348 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2024-11-18 12:45:50.349 [info] Getting Manifest... eamodio.gitlens
+2024-11-18 12:45:50.350 [info] Getting Manifest... github.copilot-chat
+2024-11-18 12:45:50.351 [info] Getting Manifest... ms-python.vscode-pylance
+2024-11-18 12:45:50.352 [info] Getting Manifest... rangav.vscode-thunder-client
+2024-11-18 12:45:50.463 [info] Installing extension: bradlc.vscode-tailwindcss {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json","path":"/home/fgress2/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-18 12:45:50.484 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json","path":"/home/fgress2/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-18 12:45:50.485 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json","path":"/home/fgress2/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-18 12:45:50.512 [info] Installing extension: rangav.vscode-thunder-client {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json","path":"/home/fgress2/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-18 12:45:50.515 [info] Installing extension: eamodio.gitlens {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json","path":"/home/fgress2/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-18 12:45:51.524 [info] Extension signature verification result for bradlc.vscode-tailwindcss: UnknownError. Executed: true. Duration: 17ms.
+2024-11-18 12:45:51.584 [info] Extracted extension to file:///home/fgress2/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.14: bradlc.vscode-tailwindcss
+2024-11-18 12:45:51.588 [info] Renamed to /home/fgress2/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.14
+2024-11-18 12:45:51.600 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.12.13
+2024-11-18 12:45:51.629 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json
+2024-11-18 12:45:51.675 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-18 12:45:51.898 [info] Extension signature verification result for github.copilot-chat: UnknownError. Executed: true. Duration: 6ms.
+2024-11-18 12:45:52.037 [info] Extracted extension to file:///home/fgress2/.vscode/extensions/github.copilot-chat-0.22.3: github.copilot-chat
+2024-11-18 12:45:52.040 [info] Renamed to /home/fgress2/.vscode/extensions/github.copilot-chat-0.22.3
+2024-11-18 12:45:52.057 [info] Marked extension as uninstalled github.copilot-chat-0.22.2
+2024-11-18 12:45:52.067 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json
+2024-11-18 12:45:52.078 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-18 12:45:52.168 [info] Getting Manifest... ms-python.python
+2024-11-18 12:45:52.282 [info] Extension signature verification result for rangav.vscode-thunder-client: UnknownError. Executed: true. Duration: 16ms.
+2024-11-18 12:45:52.351 [info] Extracted extension to file:///home/fgress2/.vscode/extensions/rangav.vscode-thunder-client-2.29.15: rangav.vscode-thunder-client
+2024-11-18 12:45:52.353 [info] Renamed to /home/fgress2/.vscode/extensions/rangav.vscode-thunder-client-2.29.15
+2024-11-18 12:45:52.360 [info] Marked extension as uninstalled rangav.vscode-thunder-client-2.29.13
+2024-11-18 12:45:52.387 [info] Extension installed successfully: rangav.vscode-thunder-client vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json
+2024-11-18 12:45:52.435 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-18 12:45:54.399 [info] Extension signature verification result for ms-python.vscode-pylance: UnknownError. Executed: true. Duration: 10ms.
+2024-11-18 12:45:55.018 [info] Extension signature verification result for eamodio.gitlens: UnknownError. Executed: true. Duration: 6ms.
+2024-11-18 12:45:55.267 [info] Extracted extension to file:///home/fgress2/.vscode/extensions/eamodio.gitlens-16.0.1: eamodio.gitlens
+2024-11-18 12:45:55.277 [info] Renamed to /home/fgress2/.vscode/extensions/eamodio.gitlens-16.0.1
+2024-11-18 12:45:55.305 [info] Marked extension as uninstalled eamodio.gitlens-15.6.3
+2024-11-18 12:45:55.318 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json
+2024-11-18 12:45:55.361 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-18 12:45:56.132 [info] Extracted extension to file:///home/fgress2/.vscode/extensions/ms-python.vscode-pylance-2024.11.2: ms-python.vscode-pylance
+2024-11-18 12:45:56.138 [info] Renamed to /home/fgress2/.vscode/extensions/ms-python.vscode-pylance-2024.11.2
+2024-11-18 12:45:56.174 [info] Marked extension as uninstalled ms-python.vscode-pylance-2024.11.1
+2024-11-18 12:45:56.177 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json
+2024-11-18 12:45:56.225 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

@@ -1,0 +1,9 @@
+2024-11-14 01:24:47.210 [error] [network] #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_CERT_COMMON_NAME_INVALID
+2024-11-14 01:24:48.407 [error] [network] #2: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_CERT_COMMON_NAME_INVALID
+2024-11-14 01:24:56.047 [error] [network] #6: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2024-11-14 01:24:59.634 [error] [network] #7: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2024-11-14 01:25:07.139 [error] [network] #8: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2024-11-14 01:25:09.688 [error] [network] #9: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2024-11-14 01:29:48.523 [error] [network] #10: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_CERT_COMMON_NAME_INVALID
+2024-11-14 01:34:48.630 [error] [network] #13: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_CERT_COMMON_NAME_INVALID
+2024-11-14 01:34:50.721 [error] [network] #15: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID

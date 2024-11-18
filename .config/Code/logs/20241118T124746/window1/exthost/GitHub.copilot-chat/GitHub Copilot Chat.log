@@ -1,0 +1,22 @@
+2024-11-18 12:47:52.625 [info] Using the Electron fetcher.
+2024-11-18 12:47:52.625 [info] Initializing Git extension service.
+2024-11-18 12:47:52.625 [info] Successfully activated the vscode.git extension.
+2024-11-18 12:47:52.625 [info] Enablement state of the vscode.git extension: true.
+2024-11-18 12:47:52.625 [info] Successfully registered Git commit message provider.
+2024-11-18 12:47:53.920 [info] Logged in as derFinlay
+2024-11-18 12:47:54.566 [info] Got Copilot token for derFinlay
+2024-11-18 12:47:54.616 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-18 12:47:54.616 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-11-18 12:47:54.619 [info] Registering default platform agent...
+2024-11-18 12:47:55.207 [info] Fetched model metadata in 636ms 351ced77-b3cb-44f2-b2e4-d1576b103137
+2024-11-18 12:47:55.388 [info] activationBlocker from 'languageModelAccess' took for 2824ms
+2024-11-18 13:02:56.145 [info] Fetched model metadata in 740ms 5d237dff-839e-4293-9895-a93a137a1eee
+2024-11-18 13:12:54.581 [info] Logged in as derFinlay
+2024-11-18 13:12:55.497 [info] Got Copilot token for derFinlay
+2024-11-18 13:12:55.522 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-18 13:17:56.876 [info] Fetched model metadata in 714ms c01f19df-6c0f-42d8-a530-4369b07dcfeb
+2024-11-18 13:32:57.456 [info] Fetched model metadata in 563ms f560be6b-ceb1-4772-a12f-4c55e84c5489
+2024-11-18 13:37:55.512 [info] Logged in as derFinlay
+2024-11-18 13:37:56.282 [info] Got Copilot token for derFinlay
+2024-11-18 13:37:56.301 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-18 13:47:58.140 [info] Fetched model metadata in 672ms 9aa17eb1-2edd-4a95-b029-e1b4adab4486

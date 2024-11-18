@@ -1,0 +1,77 @@
+2024-11-13 18:29:26.179 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2024-11-13 18:29:26.180 [info] Getting Manifest... equinusocio.vsc-material-theme-icons
+2024-11-13 18:29:26.181 [info] Getting Manifest... github.copilot
+2024-11-13 18:29:26.182 [info] Getting Manifest... ms-python.python
+2024-11-13 18:29:26.183 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2024-11-13 18:29:26.184 [info] Getting Manifest... pkief.material-icon-theme
+2024-11-13 18:29:26.184 [info] Getting Manifest... rangav.vscode-thunder-client
+2024-11-13 18:29:26.222 [info] Installing extension: ms-vscode.vscode-typescript-next {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json","path":"/home/fgress2/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-13 18:29:26.245 [info] Installing extension: github.copilot {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json","path":"/home/fgress2/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-13 18:29:26.253 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json","path":"/home/fgress2/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-13 18:29:26.253 [info] Installing extension: bradlc.vscode-tailwindcss {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json","path":"/home/fgress2/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-13 18:29:26.262 [info] Installing extension: equinusocio.vsc-material-theme-icons {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json","path":"/home/fgress2/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-13 18:29:26.263 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json","path":"/home/fgress2/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-13 18:29:26.263 [info] Installing extension: rangav.vscode-thunder-client {"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json","path":"/home/fgress2/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-13 18:29:27.692 [info] Extension signature verification result for pkief.material-icon-theme: UnknownError. Executed: true. Duration: 16ms.
+2024-11-13 18:29:27.767 [info] Extension signature verification result for ms-vscode.vscode-typescript-next: UnknownError. Executed: true. Duration: 5ms.
+2024-11-13 18:29:28.003 [info] Extracted extension to file:///home/fgress2/.vscode/extensions/ms-vscode.vscode-typescript-next-5.8.20241112: ms-vscode.vscode-typescript-next
+2024-11-13 18:29:28.006 [info] Renamed to /home/fgress2/.vscode/extensions/ms-vscode.vscode-typescript-next-5.8.20241112
+2024-11-13 18:29:28.016 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.8.20241106
+2024-11-13 18:29:28.035 [info] Extension installed successfully: ms-vscode.vscode-typescript-next vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json
+2024-11-13 18:29:28.088 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-13 18:29:28.095 [info] Extension signature verification result for rangav.vscode-thunder-client: UnknownError. Executed: true. Duration: 5ms.
+2024-11-13 18:29:28.156 [info] Extracted extension to file:///home/fgress2/.vscode/extensions/rangav.vscode-thunder-client-2.29.13: rangav.vscode-thunder-client
+2024-11-13 18:29:28.158 [info] Renamed to /home/fgress2/.vscode/extensions/rangav.vscode-thunder-client-2.29.13
+2024-11-13 18:29:28.184 [info] Marked extension as uninstalled rangav.vscode-thunder-client-2.29.9
+2024-11-13 18:29:28.194 [info] Extension installed successfully: rangav.vscode-thunder-client vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json
+2024-11-13 18:29:28.226 [info] Extension signature verification result for bradlc.vscode-tailwindcss: UnknownError. Executed: true. Duration: 5ms.
+2024-11-13 18:29:28.230 [info] Extracted extension to file:///home/fgress2/.vscode/extensions/pkief.material-icon-theme-5.14.1: pkief.material-icon-theme
+2024-11-13 18:29:28.231 [info] Renamed to /home/fgress2/.vscode/extensions/pkief.material-icon-theme-5.14.1
+2024-11-13 18:29:28.259 [info] Marked extension as uninstalled pkief.material-icon-theme-5.13.0
+2024-11-13 18:29:28.266 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json
+2024-11-13 18:29:28.304 [info] Extracted extension to file:///home/fgress2/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13: bradlc.vscode-tailwindcss
+2024-11-13 18:29:28.306 [info] Renamed to /home/fgress2/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.13
+2024-11-13 18:29:28.314 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.12.12
+2024-11-13 18:29:28.338 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json
+2024-11-13 18:29:28.622 [info] Extension signature verification result for github.copilot: UnknownError. Executed: true. Duration: 5ms.
+2024-11-13 18:29:28.808 [info] Extracted extension to file:///home/fgress2/.vscode/extensions/github.copilot-1.245.0: github.copilot
+2024-11-13 18:29:28.809 [info] Renamed to /home/fgress2/.vscode/extensions/github.copilot-1.245.0
+2024-11-13 18:29:28.818 [info] Marked extension as uninstalled github.copilot-1.243.0
+2024-11-13 18:29:28.842 [info] Extension installed successfully: github.copilot vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json
+2024-11-13 18:29:28.887 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-13 18:29:28.934 [info] Extension signature verification result for equinusocio.vsc-material-theme-icons: UnknownError. Executed: true. Duration: 5ms.
+2024-11-13 18:29:30.091 [info] Extracted extension to file:///home/fgress2/.vscode/extensions/equinusocio.vsc-material-theme-icons-3.8.10: equinusocio.vsc-material-theme-icons
+2024-11-13 18:29:30.094 [info] Renamed to /home/fgress2/.vscode/extensions/equinusocio.vsc-material-theme-icons-3.8.10
+2024-11-13 18:29:30.103 [info] Marked extension as uninstalled equinusocio.vsc-material-theme-icons-3.8.8
+2024-11-13 18:29:30.124 [info] Extension installed successfully: equinusocio.vsc-material-theme-icons vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json
+2024-11-13 18:29:30.175 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-13 18:29:30.653 [info] Extension signature verification result for ms-python.python: UnknownError. Executed: true. Duration: 7ms.
+2024-11-13 18:29:31.546 [info] Extracted extension to file:///home/fgress2/.vscode/extensions/ms-python.python-2024.20.0-linux-x64: ms-python.python
+2024-11-13 18:29:31.549 [info] Renamed to /home/fgress2/.vscode/extensions/ms-python.python-2024.20.0-linux-x64
+2024-11-13 18:29:31.584 [info] Marked extension as uninstalled ms-python.python-2024.18.0-linux-x64
+2024-11-13 18:29:31.594 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/fgress2/.vscode/extensions/extensions.json
+2024-11-13 18:29:31.633 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/fgress2/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

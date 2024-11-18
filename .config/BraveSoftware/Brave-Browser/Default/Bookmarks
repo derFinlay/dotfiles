@@ -1,0 +1,69 @@
+{
+   "checksum": "f9e176e8c982b0f76b0c00f6596d997a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13375549973855640",
+            "date_last_used": "0",
+            "guid": "5794d28b-b7f4-4389-8ed1-931ee76e6576",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "E-Mail – fgress2@it4ipm.de",
+            "type": "url",
+            "url": "https://saturn.gema.de/owa/#path=/mail"
+         }, {
+            "date_added": "13375550044702210",
+            "date_last_used": "0",
+            "guid": "ca3fa1fb-e58d-444f-98cc-1494d17f4c8b",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "My Apps Dashboard | GEMA IAM",
+            "type": "url",
+            "url": "https://login.gema.de/app/UserHome?iss=https%3A%2F%2Flogin.gema.de&session_hint=AUTHENTICATED"
+         }, {
+            "date_added": "13375550116222333",
+            "date_last_used": "0",
+            "guid": "8661cd94-2315-4deb-97fd-e3f554dff097",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Startseite - Confluence GEMA",
+            "type": "url",
+            "url": "https://gema.atlassian.net/wiki/home"
+         } ],
+         "date_added": "13375549181513838",
+         "date_last_used": "0",
+         "date_modified": "13375550116222333",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13375549181513842",
+         "date_last_used": "0",
+         "date_modified": "13375549973855640",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13375549181513844",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
