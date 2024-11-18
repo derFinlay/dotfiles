@@ -1,4 +1,0 @@
-[general]
-live_config_reload = true
-[key_bindings]
-    { key: Back, mods: Control, chars: "\\x17" }

@@ -1,2 +1,0 @@
-2024-11-13 18:48:12.683 [error] [network] #15: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_IO_SUSPENDED
-2024-11-13 18:48:17.387 [error] [network] #16: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED

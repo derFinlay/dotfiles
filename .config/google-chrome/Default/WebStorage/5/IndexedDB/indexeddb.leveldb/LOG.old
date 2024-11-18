@@ -1,6 +1,0 @@
-2024/11/13-18:33:53.625 17dd Reusing MANIFEST /home/fgress2/.config/google-chrome/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/11/13-18:33:53.625 17dd Recovering log #3
-2024/11/13-18:33:53.633 17dd Reusing old log /home/fgress2/.config/google-chrome/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/000003.log 
-2024/11/13-18:33:57.485 17de Level-0 table #5: started
-2024/11/13-18:33:57.499 17de Level-0 table #5: 2375662 bytes OK
-2024/11/13-18:33:57.501 17de Delete type=0 #3

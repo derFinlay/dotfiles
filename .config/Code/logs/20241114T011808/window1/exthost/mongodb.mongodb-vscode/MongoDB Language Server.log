@@ -1,3 +1,0 @@
-2024-11-14 01:18:11.684 [info] MongoDBService initializing...
-2024-11-14 01:18:11.859 [info] MongoDBService initialized {"extensionPath":"/home/fgress2/.vscode/extensions/mongodb.mongodb-vscode-1.9.3","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false}
-2024-11-14 01:18:58.193 [info] [Error - 1:18:58 AM] Server process exited with code 0.

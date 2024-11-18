@@ -1,7 +1,0 @@
-2024-11-14 01:04:36.891 [info] Started local extension host with pid 29505.
-2024-11-14 01:04:37.695 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
-2024-11-14 01:04:37.845 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
-2024-11-14 01:04:37.845 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
-2024-11-14 01:04:39.614 [info] [perf] Render performance baseline is 20ms
-2024-11-14 01:04:42.443 [error] [Extension Host] (node:29505) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `exe --trace-deprecation ...` to show where the warning was created)
